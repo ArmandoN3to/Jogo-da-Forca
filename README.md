@@ -12,7 +12,6 @@ Este é um jogo clássico da forca implementado em Python. O jogador tenta adivi
 ## Tecnologias Utilizadas
 
 - **Python**: Utilizado para criar a lógica do jogo e a interface de linha de comando.
-- **JavaScript** (futuro): Planejado para uma versão web com interface gráfica.
 
 ## Como Usar
 
